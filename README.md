@@ -21,10 +21,12 @@ IT系のサイトや個人サイト製作のお供に、是非。
 CaffeineCSSと同様にスマホ,PCなどの多様な画面サイズに対応しています。(自動伸縮)  
 左側の枠線のみに着色することでシンプルかつ統一感のあるデザインを実現しました。  
 角のある枠デザインを採用。また、夜間でも読みやすい黒基調のスタイルに仕上がっています。  
+*************************
 ![interchangeable](./interchangeable.png)  
 CaffeineCSSと同じClassで構成されています。linkタグの文字列をcaffeine.cssからfslinear.cssに変更するだけで簡単にテーマ変更が可能です。  
 またCaffeineCSSにはないコンポーネントとして"WhiteMark"と"space"が追加されました!  
-また、FSLinearではcntクラス(CaffeineCSSのstem用div)はspace(空白)に設定されています。  
+また、FSLinearではcntクラス(CaffeineCSSのstem用div)はspace(空白)に設定されています。 
+***********************
 ![exp2](./examples2.png)  
 こちらは実装例です。(コンテンツはフィクションです。)  
 リンクテキストは既定の青色から緑色に変更され、視認性が向上し、下線も隠してすっきりしたデザインになりました。  
